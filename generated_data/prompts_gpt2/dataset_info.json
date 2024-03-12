@@ -48,6 +48,10 @@
     "wikipedia": {
       "dtype": "string",
       "_type": "Value"
+    },
+    "generated_prompts_gpt2": {
+      "dtype": "string",
+      "_type": "Value"
     }
   },
   "homepage": "",
