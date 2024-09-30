@@ -16,8 +16,6 @@ Features evaluated for toxicity:
   <img src="imgs/data/data_gender.png" height="300" hspace="10"/>
   <img src="imgs/data/data_politics.png" height="300" hspace="10"/> 
   <img src="imgs/data/data_race.png" height="300" hspace="10"/>
-</p>
-<p float="left">
   <img src="imgs/data/data_religion.png" height="300" />
   <img src="imgs/data/data_profession.png" height="300" hspace="10"/>
 </p>
