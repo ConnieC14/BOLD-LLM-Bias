@@ -27,7 +27,7 @@ First we observe the extent of the maximum toxicity of each model across the fiv
 
 When considering ratio toxicity, **Llama-2-70b (*llama-pretrained*)** shows highest values in categories like “Nationalism”, “Socialism” and “American Actresses”. Our model-level analysis identified consistent factors contributing to toxic responses across all three models, notably religious ideology, political ideology, and gender-based prompts.  Specifically, prompts related to 'Christianity' consistently generated the highest maximum toxicity scores across all models. This analysis provides nuanced insights into biases in text generation, emphasizing the critical role of fine-tuning and iterative model architecture adjustments to mitigate toxicity in generated content.
 
-![Alt text](imgs/model_comparison_results/max_tox.png?raw=true "Title")
+![Alt text](imgs/model_comparison_results/tox_ratio.png?raw=true "Title")
 
 ## Sources Cited
 ### Data
